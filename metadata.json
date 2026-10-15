@@ -1,0 +1,8 @@
+{
+  "name": "Remix Fotografický kvíz \u0026 Trenažér",
+  "description": "Interaktivní fotografický test základů expozice, clony, času, ISO, vyvážení bílé, RAW a kompozice s interaktivními simulátory fotoaparátu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
